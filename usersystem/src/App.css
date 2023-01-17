@@ -1,0 +1,6 @@
+.spinner{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    text-align: center;
+}
